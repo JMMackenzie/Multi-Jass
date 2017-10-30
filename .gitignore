@@ -1,0 +1,10 @@
+*.bin
+jass
+*.swo
+*.swp
+*.swn
+*.o
+TAGS
+tags
+atire_to_jass_index
+jass
