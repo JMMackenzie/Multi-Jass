@@ -10,9 +10,11 @@ In proceedings of the 22nd Australasian Document Computing Symposium (ADCS 2017)
 
 Acknowledgements
 ----------------
-This code depends on [ATIRE](http://github.com/snapbug/atire).
+This code depends on [ATIRE](http://atire.org/).
 
 The original Jass implementation can be found [here](http://github.com/lintool/jass).
+
+Currently, A new version of Jass is under development This can be found [here](https://github.com/andrewtrotman/JASSv2).
 
 Licence
 -------
